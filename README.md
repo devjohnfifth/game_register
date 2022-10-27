@@ -1,4 +1,4 @@
-<h1>Game Register</h1>
+<h1>Game Register :D</h1>
 
 > Project status: in progress
 
